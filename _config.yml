@@ -1,10 +1,10 @@
-title: Akshen - ML Engineer & AWS Certified Professional
-description: Machine Learning Engineer specializing in AI/ML solutions and cloud architecture
+title: Akshen Doke - ML Engineer & Product Owner
+description: Product-minded technologist specializing in AI/ML solutions, cloud automation, and LLM applications
 remote_theme: sproogen/modern-resume-theme
 
-# Your information
+# Personal info
 name: Akshen Doke
-title: ML Engineer | AWS Certified Professional
+title: ExCoFounder-Maxotopia Foundation | ML Engineer | Certified Scrum Product Owner
 email: doke.akshen@gmail.com
 website: https://akshen.github.io
 
@@ -14,12 +14,143 @@ linkedin_username: akshen
 
 # About section
 about_title: About Me
-about_profile_image: images/profile_image.jpg
+about_profile_image: images/profile.jpg
 about_content: |
-  ML Engineer with expertise in machine learning, cloud architecture, and automation systems. 
-  AWS Certified professional with experience in building AI-powered solutions for pharmaceutical operations.
+  Product-minded technologist and Certified Scrum Product Owner with hands-on experience in machine learning research, 
+  cloud automation, and AI-driven product development. Adept at building with modern LLMs (Claude, OpenAI, Perplexity), 
+  Retrieval-Augmented Generation (RAG), and autonomous workflows using tools like LangChain.
   
-  Specialties: Machine Learning, AWS Services, Automation, LLM Applications
+  Skilled in integrating AI with MAKE automation, MCP pipelines, and automation-first architectures. 
+  Former Python trainer at FOSSEE with a strong track record in open-source evangelism and civic tech.
+
+# Projects content
+content:
+  - title: Experience
+    layout: list
+    content:
+      - layout: left
+        title: Maxotopia Foundation
+        sub_title: Co-Founder and CTO
+        caption: Oct 2023 - Oct 2024
+        link: 
+        description: |
+          Mumbai-based civic tech initiative transforming citizen-government collaboration.
+          
+          - Spearheaded development of 'Let's Engage' mobile application for civic engagement
+          - Explored AI agent architecture for automated complaint triaging
+          - Built systems for citizen issue tracking and ward-level governance
+          
+      - layout: left
+        title: TerraAlto
+        sub_title: Cloud Automation and Operations Engineer
+        caption: May 2021 - June 2023
+        location: Dublin, Ireland
+        description: |
+          Managed cloud services across multiple client domains.
+          
+          - Deployed AWS code pipelines and automated backup systems
+          - Provided 24/7 customer support with on-call duties
+          - Created scripts reducing data collection processing time
+          - Developed onboarding documentation for new engineers
+          
+      - layout: left
+        title: FOSSEE, IIT-Bombay
+        sub_title: Project Research Engineer
+        caption: Jan 2017 - June 2019
+        location: Mumbai, India
+        description: |
+          Multi-faceted role spanning development, promotion, and education.
+          
+          - Designed workshop booking website and delivered Python training
+          - Mentored interns in web tool development
+          - Arctic Code Vault Contributor on GitHub
+          - Organized SciPy-2019 event at IIT-B campus
+
+  - title: Projects
+    layout: list
+    content:
+      - layout: top-middle
+        title: WhatsApp Fact Checker Bot
+        caption: May 2025
+        description: |
+          AI-powered misinformation detection system using Claude and Perplexity APIs.
+          
+          **Tech Stack:** Python, WhatsApp Business API, MAKE automation, Claude/Perplexity APIs
+          
+          - Real-time LLM responses for fact-checking
+          - Webhook handling with workflow orchestration
+          - Built with Git version control and unit testing
+          - Improved information quality in local communities
+          
+      - layout: top-middle
+        title: Seasonal Food India App
+        caption: 2024
+        description: |
+          Full-stack Next.js application recommending seasonal Indian foods based on location.
+          
+          **Tech Stack:** Next.js, Vercel, ICMR-NIN API
+          
+          - 250+ foods with comprehensive filtering and pagination
+          - Ayurvedic wisdom integration with verified nutritional data
+          - Image management and location-based recommendations
+          
+      - layout: top-middle
+        title: VS Code Extension - Memory Graph
+        caption: 2024
+        description: |
+          Python package visualization tool for students learning data structures.
+          
+          **Tech Stack:** TypeScript, VS Code API, Python
+          
+          - Released v0.1.0 on GitHub
+          - Python environment detection
+          - Visual data structure representation
+          
+      - layout: top-middle
+        title: Baby Monitoring Camera Detector
+        caption: Sept 2020
+        description: |
+          AI-powered safety monitoring system using object detection.
+          
+          **Tech Stack:** Python, OpenCV, TensorFlow/PyTorch
+          
+          - Real-time detection of unsafe infant activities
+          - Ultrasonic sensor integration for accuracy
+          - Alert triggers with metadata storage
+
+  - title: Education
+    layout: list
+    content:
+      - layout: left
+        title: National College of Ireland
+        caption: 2019 - 2021
+        sub_title: Master's in Data Analytics
+        description: |
+          Published research on COVID-19 chest X-ray classification using ensemble deep learning.
+          Achieved 85-90% accuracy using transfer learning with AlexNet and ResNet variants.
+          
+      - layout: left
+        title: Atharva College - Mumbai University
+        caption: 2013 - 2016
+        sub_title: Bachelor's in Computer Engineering
+        description: |
+          Co-authored research published in GRD Journal for Engineering on data analysis and visualization tools.
+
+      - layout: left
+        title:  Thakur Polytechnic 
+        caption: 2010 - 2013
+        sub_title: Diploma in Computer Engineering
+        description: |
+          Built a tool for Mobile based E-Voting system to track end to end voting process.
+
+# Footer
+footer_show_references: true
 
 # Build settings
 markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
