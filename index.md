@@ -230,7 +230,9 @@ Chrome extension promoting healthy screen habits for digital workers.
 📚 Reading books and classical music | 🏔️ Philosophy, hiking, and horse riding | 🎮 Video games and documentaries | ⚽ Football and badminton
 
 ---
+## 📄 Resume
 
+[Download PDF Resume](/assets/AkshenDokeResume.pdf){:target="_blank"} | [View on LinkedIn](https://linkedin.com/in/akshen)
 
 ## 📝 Latest Blog Posts
 
