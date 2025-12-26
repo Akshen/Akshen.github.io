@@ -75,6 +75,21 @@ AI-powered WhatsApp bot detecting and debunking misinformation...
 
 ---
 
+### 🏥 Chest X-Ray COVID-19 Classification (Master's Thesis - 2021)
+Ensemble deep learning system for detecting COVID-19, pneumonia, and normal cases from chest X-ray images.
+
+**Tech Stack:** Python, TensorFlow/PyTorch, OpenCV, AlexNet, ResNet variants
+
+- Implemented ensemble of deep CNNs using transfer learning with hard and soft voting
+- Achieved **85-90% classification accuracy** with balanced precision-recall across all classes
+- Advanced preprocessing pipeline: normalization, histogram equalization, and data augmentation
+- Addressed class imbalance in medical imaging datasets through strategic augmentation
+- Published research project at National College of Ireland
+
+[View on GitHub](https://github.com/Akshen/NIC-Project) | [Research Details](https://norma.ncirl.ie/7623/)
+
+---
+
 ### 🌾 Seasonal Food India App (2025)
 Full-stack Next.js application recommending seasonal Indian foods based on user location.
 ![Status](https://img.shields.io/badge/Status-Live-success)
