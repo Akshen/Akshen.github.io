@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<meta name="google-site-verification" content="dQZtJGJF9kVcZt5TLL5TMBNfnlXfNdTZlx0NQCMaZIQ" />
+
 # Akshen Doke
 
 **ML Engineer | AWS Certified | Certified Scrum Product Owner**
