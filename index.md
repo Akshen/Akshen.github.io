@@ -64,7 +64,7 @@ AI-powered WhatsApp bot detecting and debunking misinformation using Claude and 
 - Built with Git version control and comprehensive unit testing
 - **Impact:** Helped raise quality of information and stop distrust in local communities
 
-[View Project](#) | [GitHub](#)
+[View Detailed Case Study](/projects/whatsapp-bot) | [GitHub](#)
 
 ---
 
@@ -78,7 +78,7 @@ Full-stack Next.js application recommending seasonal Indian foods based on user 
 - Advanced image management and location-based recommendations
 - Successfully deployed on Vercel with optimal performance
 
-[View App](#) | [GitHub](#)
+[View App](https://seasonal-food-app.vercel.app/)
 
 ---
 
@@ -92,7 +92,7 @@ Open Source Python package visualization tool helping students understand data s
 - Visual representation of complex data structures
 - Post-release improvements in Python environment detection
 
-[GitHub Release](#) | [VS Code Marketplace](#)
+[GitHub Release](https://github.com/Akshen/memory_graph_extension)
 
 ---
 
@@ -106,7 +106,7 @@ Computer vision system detecting unsafe infant activities using object detection
 - Alert triggers with metadata storage for post-sleep analysis
 - Designed with modular architecture and comprehensive testing
 
-[GitHub](#)
+[GitHub](https://github.com/Akshen/baby-monitoring-camera-detector)
 
 ---
 
@@ -132,7 +132,7 @@ Python-based educational simulator of the historic Enigma encryption machine.
 - Command-line and GUI interfaces for flexibility
 - Designed for educational value and historical accuracy
 
-[GitHub](#)
+[GitHub](https://github.com/Akshen/Enigma)
 
 ---
 
@@ -146,7 +146,7 @@ Chrome extension enabling simultaneous multi-engine web searches.
 - Responsive UI with smart selection pattern behaviors
 - Streamlines search experience across multiple platforms
 
-[Chrome Extension](#)
+[Chrome Extension](https://github.com/Akshen/SSearch)
 
 ---
 
@@ -157,7 +157,6 @@ Chrome extension promoting healthy screen habits for digital workers.
 - Based on optometrist-recommended 20-20-20 rule
 - Non-intrusive notifications to reduce digital eye strain
 
-[Chrome Store](#)
 
 ---
 
