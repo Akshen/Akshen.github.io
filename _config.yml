@@ -1,0 +1,25 @@
+title: Akshen - ML Engineer & AWS Certified Professional
+description: Machine Learning Engineer specializing in AI/ML solutions and cloud architecture
+remote_theme: sproogen/modern-resume-theme
+
+# Your information
+name: Akshen Doke
+title: ML Engineer | AWS Certified Professional
+email: doke.akshen@gmail.com
+website: https://akshen.github.io
+
+# Social links
+github_username: akshen
+linkedin_username: akshen
+
+# About section
+about_title: About Me
+about_profile_image: images/profile_image.jpg
+about_content: |
+  ML Engineer with expertise in machine learning, cloud architecture, and automation systems. 
+  AWS Certified professional with experience in building AI-powered solutions for pharmaceutical operations.
+  
+  Specialties: Machine Learning, AWS Services, Automation, LLM Applications
+
+# Build settings
+markdown: kramdown
