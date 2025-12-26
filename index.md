@@ -134,18 +134,6 @@ Computer vision system detecting unsafe infant activities using object detection
 
 ---
 
-### 💡 The Startup Idea Vault
-Digital product designed for entrepreneurs and developers seeking validated business ideas.
-
-- **54 validated software project ideas** with 74 data points each
-- Market research, technical requirements, and implementation roadmaps
-- Successfully launched as digital product for developer community
-- Targeted at entrepreneurs and developers looking for validated startup ideas
-
-[Learn More](#)
-
----
-
 ### 🔐 Enigma - Cipher Simulator with GUI (2015)
 Python-based educational simulator of the historic Enigma encryption machine.
 ![Status](https://img.shields.io/badge/Status-Live-success)
@@ -172,16 +160,6 @@ Chrome extension enabling simultaneous multi-engine web searches.
 - Streamlines search experience across multiple platforms
 
 [Chrome Extension](https://github.com/Akshen/SSearch)
-
----
-
-### 👁️ EyeCare - Chrome Extension
-Chrome extension promoting healthy screen habits for digital workers.
-
-- Reminds users every 20 minutes to look 20 feet away for 20 seconds
-- Based on optometrist-recommended 20-20-20 rule
-- Non-intrusive notifications to reduce digital eye strain
-
 
 ---
 
