@@ -223,4 +223,13 @@ Chrome extension promoting healthy screen habits for digital workers.
 
 ---
 
+
+## 📝 Latest Blog Posts
+
+- [Building a WhatsApp Fact Checker with Claude API](/blog/whatsapp-fact-checker) - *June 26, 2025*
+- [From Seasonal Food App to Production](/blog/seasonal-food-journey) - *Dec 15, 2025*
+
+[View All Posts →](/blog)
+
+---
 *Last updated: December 2025*
