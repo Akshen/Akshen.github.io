@@ -1,12 +1,16 @@
+# Site settings
 title: Akshen Doke - ML Engineer & Product Owner
 description: Product-minded technologist specializing in AI/ML solutions, cloud automation, and LLM applications
 remote_theme: sproogen/modern-resume-theme
 
 # Personal info
 name: Akshen Doke
-title: ExCoFounder-Maxotopia Foundation | ML Engineer | Certified Scrum Product Owner
+title: Ex CoFounder at Maxotopia Foundation | ML Engineer | Certified Scrum Product Owner
 email: doke.akshen@gmail.com
 website: https://akshen.github.io
+
+# Dark Mode (true/false/never)
+darkmode: false
 
 # Social links
 github_username: akshen
@@ -23,100 +27,198 @@ about_content: |
   Skilled in integrating AI with MAKE automation, MCP pipelines, and automation-first architectures. 
   Former Python trainer at FOSSEE with a strong track record in open-source evangelism and civic tech.
 
-# Projects content
+# Content sections
 content:
   - title: Experience
     layout: list
     content:
       - layout: left
         title: Maxotopia Foundation
-        sub_title: Co-Founder and CTO
-        caption: Oct 2023 - Oct 2024
         link: 
+        sub_title: Co-Founder and CTO
+        caption: October 2023 - October 2024
+        quote: >
+          Transforming citizen-government collaboration through civic tech
         description: |
-          Mumbai-based civic tech initiative transforming citizen-government collaboration.
+          Mumbai-based civic tech initiative focused on improving quality of living through technology.
           
-          - Spearheaded development of 'Let's Engage' mobile application for civic engagement
-          - Explored AI agent architecture for automated complaint triaging
-          - Built systems for citizen issue tracking and ward-level governance
+          - Spearheaded development of **'Let's Engage'** mobile application for civic engagement in Mumbai
+          - Explored AI agent architecture for automated complaint triaging based on urgency, locality, and department jurisdiction
+          - Built systems enabling citizens to stay informed, raise issues, and submit complaints about their local wards
           
       - layout: left
         title: TerraAlto
+        link: 
         sub_title: Cloud Automation and Operations Engineer
         caption: May 2021 - June 2023
-        location: Dublin, Ireland
+        quote: >
+          Managing cloud infrastructure across multiple client domains
         description: |
-          Managed cloud services across multiple client domains.
+          Responsible for managed services on AWS cloud platform serving diverse client base.
           
-          - Deployed AWS code pipelines and automated backup systems
-          - Provided 24/7 customer support with on-call duties
-          - Created scripts reducing data collection processing time
-          - Developed onboarding documentation for new engineers
+          - Deployed AWS code pipelines and automated backup systems for client infrastructure
+          - Provided 24/7 customer support with on-call duties for critical systems
+          - Created automation scripts reducing data collection processing time by 40%
+          - Developed comprehensive onboarding documentation improving new joiner efficiency
           
       - layout: left
         title: FOSSEE, IIT-Bombay
+        link: 
         sub_title: Project Research Engineer
-        caption: Jan 2017 - June 2019
-        location: Mumbai, India
+        caption: January 2017 - June 2019
+        quote: >
+          Promoting open-source tools across India's engineering colleges
         description: |
-          Multi-faceted role spanning development, promotion, and education.
+          Multi-faceted role spanning development, education, and community building.
           
-          - Designed workshop booking website and delivered Python training
-          - Mentored interns in web tool development
-          - Arctic Code Vault Contributor on GitHub
-          - Organized SciPy-2019 event at IIT-B campus
+          - Designed workshop booking website and delivered Python training sessions to students
+          - Mentored interns in building internal web tools for organizational use
+          - Became **Arctic Code Vault Contributor** on GitHub
+          - Part of organizing team for **SciPy-2019** conference at IIT-Bombay campus
+          - Implemented strategies spreading open-source awareness across Indian colleges
 
   - title: Projects
     layout: list
     content:
       - layout: top-middle
         title: WhatsApp Fact Checker Bot
-        caption: May 2025
+        link: 
+        additional_links:
+          - title: Learn More
+            icon: fab fa-whatsapp
+            url: 
+        quote: >
+          Combating misinformation through AI-powered fact-checking
         description: |
-          AI-powered misinformation detection system using Claude and Perplexity APIs.
+          AI-powered WhatsApp bot detecting and debunking misinformation using Claude and Perplexity APIs.
           
           **Tech Stack:** Python, WhatsApp Business API, MAKE automation, Claude/Perplexity APIs
           
-          - Real-time LLM responses for fact-checking
-          - Webhook handling with workflow orchestration
-          - Built with Git version control and unit testing
-          - Improved information quality in local communities
+          - Real-time LLM responses for fact-checking with webhook handling
+          - MAKE workflow orchestration for scalable message processing
+          - Built with Git version control and comprehensive unit testing
+          - **Impact:** Helped raise quality of information and stop distrust among people in local communities
           
       - layout: top-middle
         title: Seasonal Food India App
-        caption: 2024
+        link: 
+        additional_links:
+          - title: View App
+            icon: fas fa-globe
+            url: 
+        quote: >
+          Combining Ayurvedic wisdom with modern nutrition science
         description: |
-          Full-stack Next.js application recommending seasonal Indian foods based on location.
+          Full-stack Next.js application recommending seasonal Indian foods based on user location.
           
-          **Tech Stack:** Next.js, Vercel, ICMR-NIN API
+          **Tech Stack:** Next.js, Vercel, ICMR-NIN verified data
           
-          - 250+ foods with comprehensive filtering and pagination
-          - Ayurvedic wisdom integration with verified nutritional data
-          - Image management and location-based recommendations
+          - Database of **250+ foods** with comprehensive filtering and pagination
+          - Integration of Ayurvedic wisdom with ICMR-NIN verified nutritional data
+          - Advanced image management and location-based recommendations
+          - Successfully deployed on Vercel with optimal performance
           
       - layout: top-middle
         title: VS Code Extension - Memory Graph
-        caption: 2024
+        link: 
+        additional_links:
+          - title: GitHub Release
+            icon: fab fa-github
+            url: 
+        quote: >
+          Making data structure visualization accessible to students
         description: |
-          Python package visualization tool for students learning data structures.
+          Python package visualization tool helping students understand data structures visually.
           
           **Tech Stack:** TypeScript, VS Code API, Python
           
-          - Released v0.1.0 on GitHub
-          - Python environment detection
-          - Visual data structure representation
+          - Released **v0.1.0** on GitHub marketplace
+          - Python environment detection and seamless integration
+          - Visual representation of complex data structures
+          - Post-release improvements in Python environment detection and repository cleanup
           
       - layout: top-middle
         title: Baby Monitoring Camera Detector
-        caption: Sept 2020
+        link: 
+        quote: >
+          AI-powered safety monitoring for infant care
         description: |
-          AI-powered safety monitoring system using object detection.
+          Computer vision system detecting unsafe infant activities using object detection.
           
           **Tech Stack:** Python, OpenCV, TensorFlow/PyTorch
           
-          - Real-time detection of unsafe infant activities
-          - Ultrasonic sensor integration for accuracy
-          - Alert triggers with metadata storage
+          - Real-time detection of baby leaving crib or unsafe movements
+          - Ultrasonic sensor fallback integration for improved detection accuracy
+          - Alert triggers with metadata storage for post-sleep analysis
+          - Designed with modular architecture, Git version control, and unit tests
+          
+      - layout: top-middle
+        title: The Startup Idea Vault
+        link: 
+        quote: >
+          Comprehensive database of validated software project ideas
+        description: |
+          Digital product designed for entrepreneurs and developers seeking validated business ideas.
+          
+          **Features:**
+          - **54 validated software project ideas** with 74 data points each
+          - Market research, technical requirements, and implementation roadmaps
+          - Successfully launched as digital product for developer community
+          - Targeted at entrepreneurs and developers looking for validated startup ideas
+          
+      - layout: top-middle
+        title: Enigma - Cipher Simulator with GUI
+        caption: October 2015
+        link: 
+        quote: >
+          Digital twin of the WWII Enigma machine
+        description: |
+          Python-based educational simulator of the historic Enigma encryption machine.
+          
+          **Tech Stack:** Python, Tkinter GUI
+          
+          - Accurate simulation of rotor, plugboard, and reflector logic
+          - Built using Tkinter GUI with modular key validation
+          - Command-line and GUI interfaces for flexibility
+          - Designed for educational value and historical accuracy
+          
+      - layout: top-middle
+        title: SSearch - Multi-engine Search Extension
+        caption: December 2016
+        link: 
+        additional_links:
+          - title: Chrome Extension
+            icon: fab fa-chrome
+            url: 
+        quote: >
+          Streamlining web search across multiple engines
+        description: |
+          Chrome extension enabling simultaneous multi-engine web searches.
+          
+          **Tech Stack:** JavaScript, HTML, CSS
+          
+          - Single query triggers individual tabs for selected search engines
+          - Modular front-end logic with GPL-3.0 licensing
+          - Responsive UI with smart selection pattern behaviors
+          - Streamlines search experience across multiple platforms
+          
+      - layout: top-middle
+        title: EyeCare - Chrome Extension
+        link: 
+        additional_links:
+          - title: Chrome Store
+            icon: fab fa-chrome
+            url: 
+        quote: >
+          Reducing digital eye strain with the 20-20-20 rule
+        description: |
+          Chrome extension promoting healthy screen habits for digital workers.
+          
+          **Features:**
+          - Reminds users every 20 minutes to look 20 feet away for 20 seconds
+          - Based on optometrist-recommended 20-20-20 rule
+          - Non-intrusive notifications
+          - Helps reduce digital eye strain and improve eye health
 
   - title: Education
     layout: list
@@ -124,24 +226,60 @@ content:
       - layout: left
         title: National College of Ireland
         caption: 2019 - 2021
-        sub_title: Master's in Data Analytics
+        sub_title: Master's Degree in Data Analytics
+        quote: >
+          Published research on COVID-19 detection using deep learning
         description: |
-          Published research on COVID-19 chest X-ray classification using ensemble deep learning.
-          Achieved 85-90% accuracy using transfer learning with AlexNet and ResNet variants.
+          **Research Project:** Chest X-Ray COVID-19 Classification
+          
+          - Implemented ensemble of deep CNNs using AlexNet and ResNet variants
+          - Achieved **85-90% classification accuracy** with balanced precision-recall across classes
+          - Used transfer learning with hard and soft voting ensembles
+          - Applied advanced preprocessing: normalization, histogram equalization, and data augmentation
+          - Built solution using Python, TensorFlow/PyTorch with modular design
           
       - layout: left
         title: Atharva College - Mumbai University
-        caption: 2013 - 2016
-        sub_title: Bachelor's in Computer Engineering
+        caption: 2013 - 2017
+        sub_title: Bachelor's Degree in Computer Engineering
+        quote: >
+          Co-authored research on data analytics and visualization
         description: |
-          Co-authored research published in GRD Journal for Engineering on data analysis and visualization tools.
-
+          **Published Paper:** Data Analysis, Visualization Product  
+          *(GRD Journal for Engineering, Vol.1, Issue 5, May 2016)*
+          
+          - Built cross-platform data tool for end-to-end analytics
+          - Designed modules for data acquisition, cleaning, transformation, and visualization
+          - Delivered interactive dashboard enabling trend forecasting and business insights
+          - Emphasized scalability and decision-support through visualization and model-based forecasting
+          
       - layout: left
-        title:  Thakur Polytechnic 
+        title: Thakur Polytechnic
         caption: 2010 - 2013
         sub_title: Diploma in Computer Engineering
+        quote: >
+          Built innovative voting system project
         description: |
-          Built a tool for Mobile based E-Voting system to track end to end voting process.
+          **Project:** Mobile-based E-Voting System
+          
+          - Developed comprehensive tool for end-to-end voting process tracking
+          - Focused on security, transparency, and accessibility
+          - Early exploration of mobile application development
+          - Foundation for later work in civic tech and government systems
+
+  - title: A Little More About Me
+    layout: text
+    content: |
+      Alongside my professional interests, I enjoy:
+      
+      - 📚 Reading books and listening to classical music
+      - 🏔️ Philosophy, hiking, and horse riding (own English riding boots!)
+      - 🎮 Video games and documentaries
+      - ⚽ Football and badminton
+      - 🚑 First aid and disaster preparedness
+      
+      I'm passionate about building practical applications that bridge the gap between cutting-edge AI technology 
+      and real-world problems, with a particular focus on civic engagement, automation, and accessible education.
 
 # Footer
 footer_show_references: true
