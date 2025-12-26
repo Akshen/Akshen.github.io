@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://akshen.github.io/sitemap.xml
