@@ -64,12 +64,18 @@ AI-powered WhatsApp bot detecting and debunking misinformation using Claude and 
 - Built with Git version control and comprehensive unit testing
 - **Impact:** Helped raise quality of information and stop distrust in local communities
 
-[View Detailed Case Study](/projects/whatsapp-bot) | [GitHub](#)
+[View Detailed Case Study](/projects/whatsapp-bot)
+![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
+![AI](https://img.shields.io/badge/AI-Claude%20%7C%20Perplexity-orange)
+![Status](https://img.shields.io/badge/Status-Live-success)
+
+AI-powered WhatsApp bot detecting and debunking misinformation...
 
 ---
 
 ### 🌾 Seasonal Food India App (2025)
 Full-stack Next.js application recommending seasonal Indian foods based on user location.
+![Status](https://img.shields.io/badge/Status-Live-success)
 
 **Tech Stack:** Next.js, Vercel, ICMR-NIN verified data
 
@@ -84,6 +90,7 @@ Full-stack Next.js application recommending seasonal Indian foods based on user 
 
 ### 💻 VS Code Extension - Memory Graph - Open source contribution(2025)
 Open Source Python package visualization tool helping students understand data structures visually.
+![Status](https://img.shields.io/badge/Status-Live-success)
 
 **Tech Stack:** TypeScript, VS Code API, Python
 
@@ -124,6 +131,7 @@ Digital product designed for entrepreneurs and developers seeking validated busi
 
 ### 🔐 Enigma - Cipher Simulator with GUI (2015)
 Python-based educational simulator of the historic Enigma encryption machine.
+![Status](https://img.shields.io/badge/Status-Live-success)
 
 **Tech Stack:** Python, Tkinter GUI
 
