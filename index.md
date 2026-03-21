@@ -14,9 +14,15 @@ layout: default
 
 ## About Me
 
-Product-minded technologist and Certified Scrum Product Owner with hands-on experience in machine learning research, cloud automation, and AI-driven product development. Adept at building with modern LLMs (Claude, OpenAI, Perplexity), Retrieval-Augmented Generation (RAG), and autonomous workflows using tools like LangChain.
-
-Skilled in integrating AI with MAKE automation, MCP pipelines, and automation-first architectures. Former Python trainer at FOSSEE with a strong track record in open-source evangelism and civic tech.
+  Product-minded technologist and Certified Scrum Product Owner with hands-on experience in machine learning research, 
+  cloud automation, and AI-driven product development. Adept at building with modern LLMs (Claude, OpenAI, Perplexity), 
+  Retrieval-Augmented Generation (RAG), and autonomous workflows using tools like LangChain.
+  
+  Skilled in integrating AI with MAKE automation, MCP pipelines, and automation-first architectures. 
+  Former Python trainer at FOSSEE with a strong track record in open-source evangelism and civic tech.
+  
+  I also write about AI, human connection, and critical thinking on [Medium](https://medium.com/@doke.akshen), 
+  exploring how we can navigate technological advancement while preserving what makes us human.
 
 ---
 
@@ -160,6 +166,67 @@ Chrome extension enabling simultaneous multi-engine web searches.
 - Streamlines search experience across multiple platforms
 
 [Chrome Extension](https://github.com/Akshen/SSearch)
+
+---
+
+---
+
+## 📝 Writing & Thought Leadership
+
+I explore the intersection of AI, human connection, and critical thinking through writing.
+
+### Recent Articles on Medium
+
+🤖 **[Learning in the Age of AI](https://medium.com/@doke.akshen/learning-in-the-age-of-ai-75c4cff83653)**  
+How AI is transforming knowledge acquisition and learning strategies
+
+🤝 **[Personal Relationships in the Age of AI](https://medium.com/@doke.akshen/personal-relationships-in-the-age-of-ai-25637e1365a5)**  
+Maintaining authentic human connections in an AI-powered world
+
+💬 **[Debate vs Discussion](https://medium.com/@doke.akshen/debate-vs-discussion-b74f36d614ce)**  
+Understanding the art of productive conversation
+
+[Follow me on Medium](https://medium.com/@doke.akshen) for more insights on AI, technology, and human connection.
+
+---
+```
+
+---
+
+## Step-by-Step:
+
+1. Open your `index.md` file in your GitHub repository
+2. Scroll down to find the **Education** section
+3. **Paste the code above** right before the Education section
+4. Click **"Commit changes"**
+5. Wait 2-3 minutes for GitHub Pages to rebuild
+6. Visit `https://akshen.github.io` and verify it shows up!
+
+---
+
+## It Should Look Like:
+```
+... (Featured Projects) ...
+
+---
+
+## 📝 Writing & Thought Leadership
+
+I explore the intersection of AI, human connection, and critical thinking through writing.
+
+### Recent Articles on Medium
+
+🤖 Learning in the Age of AI
+How AI is transforming knowledge acquisition...
+
+🤝 Personal Relationships in the Age of AI
+Maintaining authentic human connections...
+
+💬 Debate vs Discussion
+Understanding the art of productive conversation
+
+[Follow me on Medium] for more insights...
+
 
 ---
 
