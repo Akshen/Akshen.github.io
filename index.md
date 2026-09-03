@@ -81,6 +81,58 @@ AI-powered WhatsApp bot detecting and debunking misinformation...
 
 ---
 
+---
+
+### ☀️ SunSeSuraksha - India's Heatwave Survival Guide (2025)
+
+![Android](https://img.shields.io/badge/Android-Live_on_Play_Store-3DDC84?logo=google-play)
+![Districts](https://img.shields.io/badge/Coverage-646_Districts-orange)
+![Privacy](https://img.shields.io/badge/Privacy-No_Data_Collected-green)
+
+India's personal heat survival assistant — real-time safety recommendations based on your exact location.
+
+**Tech Stack:** React Native, GPS/Location Services, Weather APIs, Push Notifications
+
+- **Live heat danger score (0-100)** for 646 Indian district headquarters across all states and UTs
+- **38 cooling foods & drinks** recommended by NDMA, AIIMS, and Ayurvedic sources with IFCT 2017 nutrition data
+- **Smart daily planner** with 8 time blocks showing temperature, safety level, hydration schedule, and meal suggestions
+- **30 verified survival tips** sourced from NDMA, BMC, and AIIMS guidelines
+- **SOS emergency screen** with 10-symptom heatstroke checker and one-tap helplines (112, 108, 102, 104, 1078)
+- **Adaptive water reminders** that adjust frequency based on current heat intensity
+- **Privacy-first design** — no login, no data collection, works offline with cached data
+- Temperature curve model factors in humidity — different recommendations for Mumbai's humid heat vs Delhi's dry heat
+
+**Impact:** Helping Indians stay safe during extreme summers with verified, actionable guidance.
+
+[Download on Google Play](https://play.google.com/store/apps/details?id=com.sunsesuraksha.app)
+
+---
+
+### 🍸 Cocktail Discovery (2025)
+
+![Android](https://img.shields.io/badge/Android-Live_on_Play_Store-3DDC84?logo=google-play)
+![Cocktails](https://img.shields.io/badge/Recipes-498_Cocktails-purple)
+![Countries](https://img.shields.io/badge/Spanning-29_Countries-blue)
+
+Discover cocktails from around the world — 498 recipes spanning 29 countries and 32 base spirits.
+
+**Tech Stack:** React Native, Local Database, Search Algorithms
+
+- **498 cocktails** with photos, full recipes, ingredients, preparation steps, glass type, and garnish
+- **Filter by 32 base spirits and 29 countries** for targeted discovery
+- **88 hand-curated cocktails** with rich history — year created and originating bar
+- **Smart search** with autocomplete suggestions by name or ingredient
+- **Save favorites** for quick access and personal collection
+- **Strength indicators** (Light, Medium, Strong) and occasion tags for finding the right drink
+- **Surprise Me button** for random cocktail discovery
+- Beautiful warm pastel design with no data collection
+
+**Published under:** Space Jockey Solutions
+
+[Download on Google Play](https://play.google.com/store/apps/details?id=com.cocktaildiscovery.app)
+
+---
+
 ### 🏥 Chest X-Ray COVID-19 Classification (Master's Thesis - 2021)
 Ensemble deep learning system for detecting COVID-19, pneumonia, and normal cases from chest X-ray images.
 
