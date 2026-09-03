@@ -240,25 +240,6 @@ Understanding the art of productive conversation
 
 [Follow me on Medium](https://medium.com/@doke.akshen) for more insights on AI, technology, and human connection.
 
----
-```
-
----
-
-## Step-by-Step:
-
-1. Open your `index.md` file in your GitHub repository
-2. Scroll down to find the **Education** section
-3. **Paste the code above** right before the Education section
-4. Click **"Commit changes"**
-5. Wait 2-3 minutes for GitHub Pages to rebuild
-6. Visit `https://akshen.github.io` and verify it shows up!
-
----
-
-## It Should Look Like:
-```
-... (Featured Projects) ...
 
 ---
 
@@ -322,13 +303,15 @@ Understanding the art of productive conversation
 
 **AI/ML:** LLMs (Claude, OpenAI, Perplexity), RAG, LangChain, Transfer Learning, CNN, Transformers, Attention Mechanisms
 
+**Mobile Development:** React Native, Android (Google Play Store published), Push Notifications, GPS/Location Services
+
 **Cloud & Automation:** AWS (Lambda, S3, API Gateway, Solutions Architect Certified), MAKE.com, CI/CD Pipelines
 
 **Development:** Python, Next.js, TypeScript, JavaScript, Git, VS Code Extensions, React
 
 **Product Management:** Certified Scrum Product Owner, Agile Methodologies, Release Management, Product Strategy
 
-**Tools & Platforms:** Docker, Linux, Vercel, GitHub Actions, WhatsApp Business API
+**Tools & Platforms:** Docker, Linux, Vercel, GitHub Actions, WhatsApp Business API, Google Play Console
 
 ---
 
