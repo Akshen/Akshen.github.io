@@ -21,3 +21,15 @@ markdown: kramdown
 
 # Google Analytics Tracking ID
 google_analytics: G-XN3HH3068R
+
+about_content: |
+  Product-minded technologist and Certified Scrum Product Owner with hands-on experience in machine learning research, 
+  cloud automation, and AI-driven product development. Adept at building with modern LLMs (Claude, OpenAI, Perplexity), 
+  Retrieval-Augmented Generation (RAG), and autonomous workflows using tools like LangChain.
+  
+  Skilled in integrating AI with MAKE automation, MCP pipelines, and automation-first architectures. 
+  Former Python trainer at FOSSEE with a strong track record in open-source evangelism and civic tech.
+  
+  Published Android apps on Google Play Store including SunSeSuraksha (India's heatwave survival guide) 
+  and Cocktail Discovery (498 global cocktail recipes). I also write about AI, human connection, and 
+  critical thinking on [Medium](https://medium.com/@doke.akshen).
